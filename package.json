@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "node-js-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeraj1235/nodejs-filesystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeraj1235/nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/Neeraj1235/nodejs-filesystem#readme",
+  "description": ""
 }
